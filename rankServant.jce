@@ -1,0 +1,19 @@
+
+module xxx 
+{
+    struct userInfo
+    {
+        0 optional int userId;
+        1 optional int userScore;
+        2 optional int userRank;
+    };
+
+interface rankServant
+{
+    int test();
+    int UploadUserInfo(userInfo userinfo);
+    int DownloadRankPage(int pageNO, int pageUnit, out vector<userInfo> output);
+    int GetUserRank(int userid, out int userrank);
+};
+
+}; 

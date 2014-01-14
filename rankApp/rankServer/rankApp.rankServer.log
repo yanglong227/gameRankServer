@@ -1,0 +1,77 @@
+2014-01-02 20:21:29|29503|DEBUG|CommunicatorEpoll::run id:29503
+2014-01-02 20:21:29|29497|DEBUG|[TAF]server netthread num : 1
+2014-01-02 20:22:36|29747|DEBUG|CommunicatorEpoll::run id:29747
+2014-01-02 20:22:36|29741|DEBUG|[TAF]server netthread num : 1
+2014-01-02 20:55:01|2327|DEBUG|CommunicatorEpoll::run id:2327
+2014-01-02 20:55:12|2389|DEBUG|CommunicatorEpoll::run id:2389
+2014-01-02 20:55:13|2406|DEBUG|CommunicatorEpoll::run id:2406
+2014-01-03 09:15:45|4526|DEBUG|CommunicatorEpoll::run id:4526
+2014-01-03 09:15:45|4520|DEBUG|[TAF]server netthread num : 1
+2014-01-03 09:16:26|4739|DEBUG|CommunicatorEpoll::run id:4739
+2014-01-03 09:16:26|4733|DEBUG|[TAF]server netthread num : 1
+2014-01-03 09:17:03|4808|DEBUG|CommunicatorEpoll::run id:4808
+2014-01-03 09:17:03|4802|DEBUG|[TAF]server netthread num : 1
+2014-01-03 09:25:22|5912|DEBUG|CommunicatorEpoll::run id:5912
+2014-01-03 09:25:22|5906|DEBUG|[TAF]server netthread num : 1
+2014-01-03 09:26:01|5942|DEBUG|CommunicatorEpoll::run id:5942
+2014-01-03 09:26:01|5934|DEBUG|[TAF]server netthread num : 1
+2014-01-03 09:28:56|6406|DEBUG|CommunicatorEpoll::run id:6406
+2014-01-03 09:29:26|6374|DEBUG|[TAF]server netthread num : 1
+2014-01-03 09:30:34|6764|DEBUG|CommunicatorEpoll::run id:6764
+2014-01-03 09:30:34|6758|DEBUG|[TAF]server netthread num : 1
+2014-01-03 09:32:47|7095|DEBUG|CommunicatorEpoll::run id:7095
+2014-01-03 09:32:47|7089|DEBUG|[TAF]server netthread num : 1
+2014-01-03 09:36:13|7745|DEBUG|CommunicatorEpoll::run id:7745
+2014-01-03 09:36:13|7739|DEBUG|[TAF]server netthread num : 1
+2014-01-03 09:36:26|7760|DEBUG|CommunicatorEpoll::run id:7760
+2014-01-03 09:36:26|7754|DEBUG|[TAF]server netthread num : 1
+2014-01-03 09:36:52|7800|DEBUG|CommunicatorEpoll::run id:7800
+2014-01-03 09:36:52|7794|DEBUG|[TAF]server netthread num : 1
+2014-01-03 09:36:57|7815|DEBUG|CommunicatorEpoll::run id:7815
+2014-01-03 09:36:57|7809|DEBUG|[TAF]server netthread num : 1
+2014-01-03 10:30:26|15920|DEBUG|CommunicatorEpoll::run id:15920
+2014-01-03 10:30:26|15914|DEBUG|[TAF]server netthread num : 1
+2014-01-03 11:05:28|24065|DEBUG|CommunicatorEpoll::run id:24065
+2014-01-03 11:05:28|24059|DEBUG|[TAF]server netthread num : 1
+2014-01-03 11:28:03|27641|DEBUG|CommunicatorEpoll::run id:27641
+2014-01-03 11:28:45|27687|DEBUG|CommunicatorEpoll::run id:27687
+2014-01-03 11:29:48|27786|DEBUG|CommunicatorEpoll::run id:27786
+2014-01-03 11:31:04|28107|DEBUG|CommunicatorEpoll::run id:28107
+2014-01-03 11:33:24|28557|DEBUG|CommunicatorEpoll::run id:28557
+2014-01-03 11:39:04|29385|DEBUG|CommunicatorEpoll::run id:29385
+2014-01-03 11:44:13|30113|DEBUG|CommunicatorEpoll::run id:30113
+2014-01-03 11:44:13|30107|DEBUG|[TAF]server netthread num : 1
+2014-01-03 11:44:26|30136|DEBUG|CommunicatorEpoll::run id:30136
+2014-01-03 11:44:26|30130|DEBUG|[TAF]server netthread num : 1
+2014-01-03 11:44:49|30174|DEBUG|CommunicatorEpoll::run id:30174
+2014-01-03 11:44:49|30168|DEBUG|[TAF]server netthread num : 1
+2014-01-03 11:45:52|30327|DEBUG|CommunicatorEpoll::run id:30327
+2014-01-03 11:47:03|30749|DEBUG|CommunicatorEpoll::run id:30749
+2014-01-03 11:47:03|30743|DEBUG|[TAF]server netthread num : 1
+2014-01-03 11:48:20|31007|DEBUG|CommunicatorEpoll::run id:31007
+2014-01-03 11:48:20|31001|DEBUG|[TAF]server netthread num : 1
+2014-01-03 11:49:07|31097|DEBUG|CommunicatorEpoll::run id:31097
+2014-01-03 11:49:08|31091|DEBUG|[TAF]server netthread num : 1
+2014-01-03 11:53:04|31642|DEBUG|CommunicatorEpoll::run id:31642
+2014-01-03 11:53:05|31636|DEBUG|[TAF]server netthread num : 1
+2014-01-03 14:58:14|26014|DEBUG|CommunicatorEpoll::run id:26014
+2014-01-03 14:58:14|26008|DEBUG|[TAF]server netthread num : 1
+2014-01-03 15:08:10|28066|DEBUG|CommunicatorEpoll::run id:28066
+2014-01-03 15:08:10|28060|DEBUG|[TAF]server netthread num : 1
+2014-01-03 15:18:46|29663|DEBUG|CommunicatorEpoll::run id:29663
+2014-01-03 15:18:46|29657|DEBUG|[TAF]server netthread num : 1
+2014-01-03 15:19:56|29772|DEBUG|CommunicatorEpoll::run id:29772
+2014-01-03 15:19:56|29766|DEBUG|[TAF]server netthread num : 1
+2014-01-06 09:58:16|2542|DEBUG|CommunicatorEpoll::run id:2542
+2014-01-06 09:58:16|2536|DEBUG|[TAF]server netthread num : 1
+2014-01-06 10:00:16|2922|DEBUG|[TAF]server netthread num : 1
+2014-01-06 10:00:29|2926|DEBUG|[TAF]server netthread num : 1
+2014-01-06 10:02:01|3155|DEBUG|[TAF]server netthread num : 1
+2014-01-06 10:02:56|3214|DEBUG|[TAF]server netthread num : 1
+2014-01-06 10:04:03|3466|DEBUG|[TAF]server netthread num : 1
+2014-01-06 10:06:35|3823|DEBUG|[TAF]server netthread num : 1
+2014-01-06 10:07:20|3956|DEBUG|[TAF]server netthread num : 1
+2014-01-06 10:07:42|3967|DEBUG|[TAF]server netthread num : 1
+2014-01-06 10:12:56|4923|DEBUG|[TAF]server netthread num : 1
+2014-01-06 11:39:05|17475|DEBUG|[TAF]server netthread num : 1
+2014-01-06 17:32:47|11745|DEBUG|[TAF]server netthread num : 1

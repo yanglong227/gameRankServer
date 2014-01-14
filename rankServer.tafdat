@@ -1,0 +1,7 @@
+<cache>
+	tafversion=3.0.0.24
+	<taf.tafregistry.QueryObj@tcp -h 172.27.34.213 -p 17890>
+		taf.tafproperty.PropertyObj=tcp -h 172.27.202.196 -p 10002 -t 3000
+		taf.tafstat.StatObj=tcp -h 172.27.202.196 -p 10000 -t 3000
+	</taf.tafregistry.QueryObj@tcp -h 172.27.34.213 -p 17890>
+</cache>
